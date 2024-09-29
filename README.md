@@ -1,3 +1,6 @@
+#やることリストを作成できます
+#以下にアプリの使用法を記述しています
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
